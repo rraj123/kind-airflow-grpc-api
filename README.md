@@ -6,13 +6,13 @@
 1. Run airflow on Kind cluster with volume.
 2. Enable Airflow REST APIs.
 3. Deploy simple GRPC Service to the cluster.
-3a. Build an image
-3b. Tag an Image
-3c. Docker push
-3d. Helm create 
-4. Modify Helm - Deploy helm 
-5. Trigger DAG from GRPC. (Test)
-6. DAG Generator with own Interpretor or Language. 
+4. Build an image
+5. Tag an Image
+6. Docker push
+7. Helm create 
+8. Modify Helm - Deploy helm 
+9. Trigger DAG from GRPC. (Test)
+10. DAG Generator with own Interpretor or Language. 
 
 
 
