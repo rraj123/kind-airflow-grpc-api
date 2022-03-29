@@ -1,0 +1,273 @@
+[2022-03-29 06:23:44,664] {manager.py:514} INFO - Processing files using up to 2 processes at a time 
+[2022-03-29 06:23:44,665] {manager.py:515} INFO - Process each file at most once every 30 seconds
+[2022-03-29 06:23:44,666] {manager.py:517} INFO - Checking for new files in /opt/airflow/dags every 300 seconds
+[2022-03-29 06:23:44,667] {manager.py:663} INFO - Searching for files in /opt/airflow/dags
+[2022-03-29 06:23:44,669] {manager.py:666} INFO - There are 0 files in /opt/airflow/dags
+[2022-03-29 06:23:44,700] {manager.py:1065} INFO - Finding 'running' jobs without a recent heartbeat
+[2022-03-29 06:23:44,702] {manager.py:1069} INFO - Failing jobs without heartbeat after 2022-03-29 06:18:44.702101+00:00
+[2022-03-29 06:23:54,724] {manager.py:1065} INFO - Finding 'running' jobs without a recent heartbeat
+[2022-03-29 06:23:54,726] {manager.py:1069} INFO - Failing jobs without heartbeat after 2022-03-29 06:18:54.726089+00:00
+[2022-03-29 06:24:04,759] {manager.py:1065} INFO - Finding 'running' jobs without a recent heartbeat
+[2022-03-29 06:24:04,761] {manager.py:1069} INFO - Failing jobs without heartbeat after 2022-03-29 06:19:04.761631+00:00
+[2022-03-29 06:24:15,765] {manager.py:1065} INFO - Finding 'running' jobs without a recent heartbeat
+[2022-03-29 06:24:15,768] {manager.py:1069} INFO - Failing jobs without heartbeat after 2022-03-29 06:19:15.768123+00:00
+[2022-03-29 06:24:25,807] {manager.py:1065} INFO - Finding 'running' jobs without a recent heartbeat
+[2022-03-29 06:24:25,809] {manager.py:1069} INFO - Failing jobs without heartbeat after 2022-03-29 06:19:25.809781+00:00
+[2022-03-29 06:24:35,847] {manager.py:1065} INFO - Finding 'running' jobs without a recent heartbeat
+[2022-03-29 06:24:35,849] {manager.py:1069} INFO - Failing jobs without heartbeat after 2022-03-29 06:19:35.849838+00:00
+[2022-03-29 06:24:46,858] {manager.py:1065} INFO - Finding 'running' jobs without a recent heartbeat
+[2022-03-29 06:24:46,860] {manager.py:1069} INFO - Failing jobs without heartbeat after 2022-03-29 06:19:46.860694+00:00
+[2022-03-29 06:24:56,897] {manager.py:1065} INFO - Finding 'running' jobs without a recent heartbeat
+[2022-03-29 06:24:56,899] {manager.py:1069} INFO - Failing jobs without heartbeat after 2022-03-29 06:19:56.899327+00:00
+[2022-03-29 06:25:06,936] {manager.py:1065} INFO - Finding 'running' jobs without a recent heartbeat
+[2022-03-29 06:25:06,940] {manager.py:1069} INFO - Failing jobs without heartbeat after 2022-03-29 06:20:06.940519+00:00
+[2022-03-29 06:25:17,947] {manager.py:1065} INFO - Finding 'running' jobs without a recent heartbeat
+[2022-03-29 06:25:17,951] {manager.py:1069} INFO - Failing jobs without heartbeat after 2022-03-29 06:20:17.950982+00:00
+[2022-03-29 06:25:27,988] {manager.py:1065} INFO - Finding 'running' jobs without a recent heartbeat
+[2022-03-29 06:25:27,990] {manager.py:1069} INFO - Failing jobs without heartbeat after 2022-03-29 06:20:27.990316+00:00
+[2022-03-29 06:25:38,025] {manager.py:1065} INFO - Finding 'running' jobs without a recent heartbeat
+[2022-03-29 06:25:38,027] {manager.py:1069} INFO - Failing jobs without heartbeat after 2022-03-29 06:20:38.027571+00:00
+[2022-03-29 06:25:49,030] {manager.py:1065} INFO - Finding 'running' jobs without a recent heartbeat
+[2022-03-29 06:25:49,032] {manager.py:1069} INFO - Failing jobs without heartbeat after 2022-03-29 06:20:49.032380+00:00
+[2022-03-29 06:25:59,066] {manager.py:1065} INFO - Finding 'running' jobs without a recent heartbeat
+[2022-03-29 06:25:59,068] {manager.py:1069} INFO - Failing jobs without heartbeat after 2022-03-29 06:20:59.068167+00:00
+[2022-03-29 06:26:09,108] {manager.py:1065} INFO - Finding 'running' jobs without a recent heartbeat
+[2022-03-29 06:26:09,111] {manager.py:1069} INFO - Failing jobs without heartbeat after 2022-03-29 06:21:09.110998+00:00
+[2022-03-29 06:26:20,124] {manager.py:1065} INFO - Finding 'running' jobs without a recent heartbeat
+[2022-03-29 06:26:20,128] {manager.py:1069} INFO - Failing jobs without heartbeat after 2022-03-29 06:21:20.127963+00:00
+[2022-03-29 06:26:30,165] {manager.py:1065} INFO - Finding 'running' jobs without a recent heartbeat
+[2022-03-29 06:26:30,170] {manager.py:1069} INFO - Failing jobs without heartbeat after 2022-03-29 06:21:30.170094+00:00
+[2022-03-29 06:26:40,183] {manager.py:1065} INFO - Finding 'running' jobs without a recent heartbeat
+[2022-03-29 06:26:40,186] {manager.py:1069} INFO - Failing jobs without heartbeat after 2022-03-29 06:21:40.186081+00:00
+[2022-03-29 06:26:50,212] {manager.py:1065} INFO - Finding 'running' jobs without a recent heartbeat
+[2022-03-29 06:26:50,215] {manager.py:1069} INFO - Failing jobs without heartbeat after 2022-03-29 06:21:50.215082+00:00
+[2022-03-29 06:27:00,248] {manager.py:1065} INFO - Finding 'running' jobs without a recent heartbeat
+[2022-03-29 06:27:00,250] {manager.py:1069} INFO - Failing jobs without heartbeat after 2022-03-29 06:22:00.250590+00:00
+[2022-03-29 06:27:11,251] {manager.py:1065} INFO - Finding 'running' jobs without a recent heartbeat
+[2022-03-29 06:27:11,254] {manager.py:1069} INFO - Failing jobs without heartbeat after 2022-03-29 06:22:11.254487+00:00
+[2022-03-29 06:27:21,302] {manager.py:1065} INFO - Finding 'running' jobs without a recent heartbeat
+[2022-03-29 06:27:21,305] {manager.py:1069} INFO - Failing jobs without heartbeat after 2022-03-29 06:22:21.305602+00:00
+[2022-03-29 06:27:31,344] {manager.py:1065} INFO - Finding 'running' jobs without a recent heartbeat
+[2022-03-29 06:27:31,346] {manager.py:1069} INFO - Failing jobs without heartbeat after 2022-03-29 06:22:31.346838+00:00
+[2022-03-29 06:27:41,355] {manager.py:1065} INFO - Finding 'running' jobs without a recent heartbeat
+[2022-03-29 06:27:41,357] {manager.py:1069} INFO - Failing jobs without heartbeat after 2022-03-29 06:22:41.357652+00:00
+[2022-03-29 06:27:51,379] {manager.py:1065} INFO - Finding 'running' jobs without a recent heartbeat
+[2022-03-29 06:27:51,381] {manager.py:1069} INFO - Failing jobs without heartbeat after 2022-03-29 06:22:51.381421+00:00
+[2022-03-29 06:28:01,420] {manager.py:1065} INFO - Finding 'running' jobs without a recent heartbeat
+[2022-03-29 06:28:01,424] {manager.py:1069} INFO - Failing jobs without heartbeat after 2022-03-29 06:23:01.424125+00:00
+[2022-03-29 06:28:12,432] {manager.py:1065} INFO - Finding 'running' jobs without a recent heartbeat
+[2022-03-29 06:28:12,434] {manager.py:1069} INFO - Failing jobs without heartbeat after 2022-03-29 06:23:12.434554+00:00
+[2022-03-29 06:28:22,473] {manager.py:1065} INFO - Finding 'running' jobs without a recent heartbeat
+[2022-03-29 06:28:22,474] {manager.py:1069} INFO - Failing jobs without heartbeat after 2022-03-29 06:23:22.474683+00:00
+[2022-03-29 06:28:32,512] {manager.py:1065} INFO - Finding 'running' jobs without a recent heartbeat
+[2022-03-29 06:28:32,515] {manager.py:1069} INFO - Failing jobs without heartbeat after 2022-03-29 06:23:32.515082+00:00
+[2022-03-29 06:28:42,524] {manager.py:1065} INFO - Finding 'running' jobs without a recent heartbeat
+[2022-03-29 06:28:42,527] {manager.py:1069} INFO - Failing jobs without heartbeat after 2022-03-29 06:23:42.527058+00:00
+[2022-03-29 06:28:45,528] {manager.py:663} INFO - Searching for files in /opt/airflow/dags
+[2022-03-29 06:28:45,531] {manager.py:666} INFO - There are 1 files in /opt/airflow/dags
+[2022-03-29 06:28:45,554] {manager.py:784} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                     PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+--------------------------  -----  ---------  --------  ----------  --------------  ----------
+/opt/airflow/dags/hello.py    154  0.01s             0           0
+================================================================================
+[2022-03-29 06:28:52,574] {manager.py:1065} INFO - Finding 'running' jobs without a recent heartbeat
+[2022-03-29 06:28:52,579] {manager.py:1069} INFO - Failing jobs without heartbeat after 2022-03-29 06:23:52.579440+00:00
+[2022-03-29 06:29:02,630] {manager.py:1065} INFO - Finding 'running' jobs without a recent heartbeat
+[2022-03-29 06:29:02,632] {manager.py:1069} INFO - Failing jobs without heartbeat after 2022-03-29 06:24:02.632916+00:00
+[2022-03-29 06:29:12,772] {manager.py:1065} INFO - Finding 'running' jobs without a recent heartbeat
+[2022-03-29 06:29:12,775] {manager.py:1069} INFO - Failing jobs without heartbeat after 2022-03-29 06:24:12.775426+00:00
+[2022-03-29 06:29:15,652] {manager.py:784} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                   PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+--------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/hello.py                           1           0  4.22s           2022-03-29T06:28:49
+================================================================================
+[2022-03-29 06:29:22,815] {manager.py:1065} INFO - Finding 'running' jobs without a recent heartbeat
+[2022-03-29 06:29:22,818] {manager.py:1069} INFO - Failing jobs without heartbeat after 2022-03-29 06:24:22.818770+00:00
+[2022-03-29 06:29:32,858] {manager.py:1065} INFO - Finding 'running' jobs without a recent heartbeat
+[2022-03-29 06:29:32,862] {manager.py:1069} INFO - Failing jobs without heartbeat after 2022-03-29 06:24:32.862355+00:00
+[2022-03-29 06:29:42,948] {manager.py:1065} INFO - Finding 'running' jobs without a recent heartbeat
+[2022-03-29 06:29:42,950] {manager.py:1069} INFO - Failing jobs without heartbeat after 2022-03-29 06:24:42.950667+00:00
+[2022-03-29 06:29:45,873] {manager.py:784} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                   PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+--------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/hello.py                           1           0  0.14s           2022-03-29T06:29:19
+================================================================================
+[2022-03-29 06:29:53,010] {manager.py:1065} INFO - Finding 'running' jobs without a recent heartbeat
+[2022-03-29 06:29:53,014] {manager.py:1069} INFO - Failing jobs without heartbeat after 2022-03-29 06:24:53.014556+00:00
+[2022-03-29 06:30:03,052] {manager.py:1065} INFO - Finding 'running' jobs without a recent heartbeat
+[2022-03-29 06:30:03,056] {manager.py:1069} INFO - Failing jobs without heartbeat after 2022-03-29 06:25:03.056025+00:00
+[2022-03-29 06:30:13,162] {manager.py:1065} INFO - Finding 'running' jobs without a recent heartbeat
+[2022-03-29 06:30:13,164] {manager.py:1069} INFO - Failing jobs without heartbeat after 2022-03-29 06:25:13.164923+00:00
+[2022-03-29 06:30:16,066] {manager.py:784} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                   PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+--------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/hello.py                           1           0  0.17s           2022-03-29T06:29:50
+================================================================================
+[2022-03-29 06:30:23,207] {manager.py:1065} INFO - Finding 'running' jobs without a recent heartbeat
+[2022-03-29 06:30:23,211] {manager.py:1069} INFO - Failing jobs without heartbeat after 2022-03-29 06:25:23.211336+00:00
+[2022-03-29 06:30:33,246] {manager.py:1065} INFO - Finding 'running' jobs without a recent heartbeat
+[2022-03-29 06:30:33,248] {manager.py:1069} INFO - Failing jobs without heartbeat after 2022-03-29 06:25:33.248113+00:00
+[2022-03-29 06:30:43,339] {manager.py:1065} INFO - Finding 'running' jobs without a recent heartbeat
+[2022-03-29 06:30:43,341] {manager.py:1069} INFO - Failing jobs without heartbeat after 2022-03-29 06:25:43.341517+00:00
+[2022-03-29 06:30:46,262] {manager.py:784} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                   PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+--------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/hello.py                           1           0  0.13s           2022-03-29T06:30:20
+================================================================================
+[2022-03-29 06:30:53,379] {manager.py:1065} INFO - Finding 'running' jobs without a recent heartbeat
+[2022-03-29 06:30:53,382] {manager.py:1069} INFO - Failing jobs without heartbeat after 2022-03-29 06:25:53.382527+00:00
+[2022-03-29 06:31:03,417] {manager.py:1065} INFO - Finding 'running' jobs without a recent heartbeat
+[2022-03-29 06:31:03,420] {manager.py:1069} INFO - Failing jobs without heartbeat after 2022-03-29 06:26:03.420310+00:00
+[2022-03-29 06:31:13,487] {manager.py:1065} INFO - Finding 'running' jobs without a recent heartbeat
+[2022-03-29 06:31:13,490] {manager.py:1069} INFO - Failing jobs without heartbeat after 2022-03-29 06:26:13.490266+00:00
+[2022-03-29 06:31:16,427] {manager.py:784} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                   PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+--------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/hello.py                           1           0  0.11s           2022-03-29T06:30:50
+================================================================================
+[2022-03-29 06:31:23,533] {manager.py:1065} INFO - Finding 'running' jobs without a recent heartbeat
+[2022-03-29 06:31:23,538] {manager.py:1069} INFO - Failing jobs without heartbeat after 2022-03-29 06:26:23.538052+00:00
+[2022-03-29 06:31:33,581] {manager.py:1065} INFO - Finding 'running' jobs without a recent heartbeat
+[2022-03-29 06:31:33,583] {manager.py:1069} INFO - Failing jobs without heartbeat after 2022-03-29 06:26:33.583148+00:00
+[2022-03-29 06:31:43,683] {manager.py:1065} INFO - Finding 'running' jobs without a recent heartbeat
+[2022-03-29 06:31:43,684] {manager.py:1069} INFO - Failing jobs without heartbeat after 2022-03-29 06:26:43.684843+00:00
+[2022-03-29 06:31:46,591] {manager.py:784} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                   PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+--------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/hello.py                           1           0  0.14s           2022-03-29T06:31:20
+================================================================================
+[2022-03-29 06:31:53,722] {manager.py:1065} INFO - Finding 'running' jobs without a recent heartbeat
+[2022-03-29 06:31:53,726] {manager.py:1069} INFO - Failing jobs without heartbeat after 2022-03-29 06:26:53.726034+00:00
+[2022-03-29 06:32:03,767] {manager.py:1065} INFO - Finding 'running' jobs without a recent heartbeat
+[2022-03-29 06:32:03,770] {manager.py:1069} INFO - Failing jobs without heartbeat after 2022-03-29 06:27:03.770293+00:00
+[2022-03-29 06:32:13,832] {manager.py:1065} INFO - Finding 'running' jobs without a recent heartbeat
+[2022-03-29 06:32:13,834] {manager.py:1069} INFO - Failing jobs without heartbeat after 2022-03-29 06:27:13.834371+00:00
+[2022-03-29 06:32:16,780] {manager.py:784} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                   PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+--------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/hello.py                           1           0  0.11s           2022-03-29T06:31:50
+================================================================================
+[2022-03-29 06:32:23,872] {manager.py:1065} INFO - Finding 'running' jobs without a recent heartbeat
+[2022-03-29 06:32:23,874] {manager.py:1069} INFO - Failing jobs without heartbeat after 2022-03-29 06:27:23.874519+00:00
+[2022-03-29 06:32:33,912] {manager.py:1065} INFO - Finding 'running' jobs without a recent heartbeat
+[2022-03-29 06:32:33,916] {manager.py:1069} INFO - Failing jobs without heartbeat after 2022-03-29 06:27:33.915943+00:00
+[2022-03-29 06:32:43,981] {manager.py:1065} INFO - Finding 'running' jobs without a recent heartbeat
+[2022-03-29 06:32:43,982] {manager.py:1069} INFO - Failing jobs without heartbeat after 2022-03-29 06:27:43.982791+00:00
+[2022-03-29 06:32:46,936] {manager.py:784} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                   PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+--------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/hello.py                           1           0  0.10s           2022-03-29T06:32:20
+================================================================================
+[2022-03-29 06:32:54,018] {manager.py:1065} INFO - Finding 'running' jobs without a recent heartbeat
+[2022-03-29 06:32:54,021] {manager.py:1069} INFO - Failing jobs without heartbeat after 2022-03-29 06:27:54.021776+00:00
+[2022-03-29 06:33:04,056] {manager.py:1065} INFO - Finding 'running' jobs without a recent heartbeat
+[2022-03-29 06:33:04,057] {manager.py:1069} INFO - Failing jobs without heartbeat after 2022-03-29 06:28:04.057834+00:00
+[2022-03-29 06:33:14,135] {manager.py:1065} INFO - Finding 'running' jobs without a recent heartbeat
+[2022-03-29 06:33:14,137] {manager.py:1069} INFO - Failing jobs without heartbeat after 2022-03-29 06:28:14.137279+00:00
+[2022-03-29 06:33:17,066] {manager.py:784} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                   PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+--------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/hello.py                           1           0  0.12s           2022-03-29T06:32:51
+================================================================================
+[2022-03-29 06:33:24,174] {manager.py:1065} INFO - Finding 'running' jobs without a recent heartbeat
+[2022-03-29 06:33:24,177] {manager.py:1069} INFO - Failing jobs without heartbeat after 2022-03-29 06:28:24.177876+00:00
+[2022-03-29 06:33:34,217] {manager.py:1065} INFO - Finding 'running' jobs without a recent heartbeat
+[2022-03-29 06:33:34,219] {manager.py:1069} INFO - Failing jobs without heartbeat after 2022-03-29 06:28:34.219040+00:00
+[2022-03-29 06:33:44,311] {manager.py:1065} INFO - Finding 'running' jobs without a recent heartbeat
+[2022-03-29 06:33:44,313] {manager.py:1069} INFO - Failing jobs without heartbeat after 2022-03-29 06:28:44.313806+00:00
+[2022-03-29 06:33:46,225] {manager.py:663} INFO - Searching for files in /opt/airflow/dags
+[2022-03-29 06:33:46,228] {manager.py:666} INFO - There are 1 files in /opt/airflow/dags
+[2022-03-29 06:33:47,243] {manager.py:784} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                   PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+--------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/hello.py                           1           0  0.14s           2022-03-29T06:33:21
+================================================================================
+[2022-03-29 06:33:54,358] {manager.py:1065} INFO - Finding 'running' jobs without a recent heartbeat
+[2022-03-29 06:33:54,378] {manager.py:1069} INFO - Failing jobs without heartbeat after 2022-03-29 06:28:54.378057+00:00
+[2022-03-29 06:34:04,413] {manager.py:1065} INFO - Finding 'running' jobs without a recent heartbeat
+[2022-03-29 06:34:04,416] {manager.py:1069} INFO - Failing jobs without heartbeat after 2022-03-29 06:29:04.416562+00:00
+[2022-03-29 06:34:14,477] {manager.py:1065} INFO - Finding 'running' jobs without a recent heartbeat
+[2022-03-29 06:34:14,479] {manager.py:1069} INFO - Failing jobs without heartbeat after 2022-03-29 06:29:14.479615+00:00
+[2022-03-29 06:34:17,419] {manager.py:784} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                   PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+--------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/hello.py                           1           0  0.13s           2022-03-29T06:33:51
+================================================================================
+[2022-03-29 06:34:24,533] {manager.py:1065} INFO - Finding 'running' jobs without a recent heartbeat
+[2022-03-29 06:34:24,535] {manager.py:1069} INFO - Failing jobs without heartbeat after 2022-03-29 06:29:24.535491+00:00
+[2022-03-29 06:34:34,571] {manager.py:1065} INFO - Finding 'running' jobs without a recent heartbeat
+[2022-03-29 06:34:34,574] {manager.py:1069} INFO - Failing jobs without heartbeat after 2022-03-29 06:29:34.574177+00:00
+[2022-03-29 06:34:44,647] {manager.py:1065} INFO - Finding 'running' jobs without a recent heartbeat
+[2022-03-29 06:34:44,650] {manager.py:1069} INFO - Failing jobs without heartbeat after 2022-03-29 06:29:44.650274+00:00
+[2022-03-29 06:34:47,583] {manager.py:784} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                   PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+--------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/hello.py                           1           0  0.11s           2022-03-29T06:34:21
+================================================================================
+[2022-03-29 06:34:54,684] {manager.py:1065} INFO - Finding 'running' jobs without a recent heartbeat
+[2022-03-29 06:34:54,686] {manager.py:1069} INFO - Failing jobs without heartbeat after 2022-03-29 06:29:54.686590+00:00
+[2022-03-29 06:35:04,721] {manager.py:1065} INFO - Finding 'running' jobs without a recent heartbeat
+[2022-03-29 06:35:04,724] {manager.py:1069} INFO - Failing jobs without heartbeat after 2022-03-29 06:30:04.724137+00:00
+[2022-03-29 06:35:14,827] {manager.py:1065} INFO - Finding 'running' jobs without a recent heartbeat
+[2022-03-29 06:35:14,828] {manager.py:1069} INFO - Failing jobs without heartbeat after 2022-03-29 06:30:14.828876+00:00
+[2022-03-29 06:35:17,739] {manager.py:784} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                   PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+--------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/hello.py                           1           0  0.15s           2022-03-29T06:34:51
+================================================================================
+[2022-03-29 06:35:24,865] {manager.py:1065} INFO - Finding 'running' jobs without a recent heartbeat
+[2022-03-29 06:35:24,868] {manager.py:1069} INFO - Failing jobs without heartbeat after 2022-03-29 06:30:24.868273+00:00
+[2022-03-29 06:35:34,900] {manager.py:1065} INFO - Finding 'running' jobs without a recent heartbeat
+[2022-03-29 06:35:34,903] {manager.py:1069} INFO - Failing jobs without heartbeat after 2022-03-29 06:30:34.903226+00:00
+[2022-03-29 06:35:44,972] {manager.py:1065} INFO - Finding 'running' jobs without a recent heartbeat
+[2022-03-29 06:35:44,976] {manager.py:1069} INFO - Failing jobs without heartbeat after 2022-03-29 06:30:44.976284+00:00
+[2022-03-29 06:35:47,915] {manager.py:784} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                   PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+--------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/hello.py                           1           0  0.11s           2022-03-29T06:35:21
+================================================================================

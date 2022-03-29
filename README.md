@@ -15,4 +15,37 @@
 10. DAG Generator with own Interpretor or Language. 
 
 
+#### Create cluster
+Note: Stop runnning local registry if it is in running mode.
 
+```
+./create-cluster.sh
+```
+Reference:
+https://www.astronomer.io/events/recaps/official-airflow-helm-chart/
+
+```
+kubectl create namespace airflow
+```
+
+Optional steps if you have not 
+```
+helm repo add apache-airflow https://airflow.apache.org
+helm repo update
+```
+
+Install Airflow 
+```
+helm install airflow apache-airflow/airflow --namespace airflow --debug --timeout 10m0s
+helm ls -n airflow
+
+```
+
+Change Executor Type to K8s
+```
+kubectl apply -f variables.yaml
+<!-- helm upgrade --install airflow apache-airflow/airflow -n airflow -f values.yaml --debug -->
+ kubectl create -f pv.yaml
+  kubectl create -f pvc.yaml
+  helm upgrade --install airflow apache-airflow/airflow -n airflow -f values.yaml --debug
+```
